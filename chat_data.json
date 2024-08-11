@@ -1,0 +1,107 @@
+[
+    {
+        "context": "Hi! How can I help you today?",
+        "question": "What is your name?",
+        "response": "I'm a chatbot designed to assist with various queries."
+    },
+    {
+        "context": "Hi! How can I help you today? I’m a chatbot designed to assist with various queries.",
+        "question": "What can you do?",
+        "response": "I can answer questions, provide information, and help with various tasks."
+    },
+    {
+        "context": "Hi! How can I help you today? I’m a chatbot designed to assist with various queries. I can answer questions, provide information, and help with various tasks.",
+        "question": "Can you tell me a joke?",
+        "response": "Sure! Why don’t scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "context": "Hello! What can I assist you with today?",
+        "question": "What time is it?",
+        "response": "I can’t provide real-time information, but you can check the current time on your device."
+    },
+    {
+        "context": "Hello! What can I assist you with today? I can’t provide real-time information, but you can check the current time on your device.",
+        "question": "Can you recommend a book?",
+        "response": "Certainly! 'To Kill a Mockingbird' by Harper Lee is a classic and highly recommended."
+    },
+    {
+        "context": "Hello! What can I assist you with today? I can’t provide real-time information, but you can check the current time on your device. Certainly! 'To Kill a Mockingbird' by Harper Lee is a classic and highly recommended.",
+        "question": "What’s the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "context": "Hi! How are you doing today?",
+        "question": "Can you help me with math problems?",
+        "response": "Yes, I can help with math problems. Just provide the details, and I'll do my best to assist you."
+    },
+    {
+        "context": "Hi! How are you doing today? Yes, I can help with math problems. Just provide the details, and I'll do my best to assist you.",
+        "question": "What’s the square root of 144?",
+        "response": "The square root of 144 is 12."
+    },
+    {
+        "context": "Hi! How are you doing today? Yes, I can help with math problems. Just provide the details, and I'll do my best to assist you. The square root of 144 is 12.",
+        "question": "Can you tell me a fun fact?",
+        "response": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible!"
+    },
+    {
+        "context": "Hello! What can I help you with today?",
+        "question": "Can you provide a recipe for a healthy meal?",
+        "response": "Certainly! How about a quinoa salad? Mix cooked quinoa with cherry tomatoes, cucumbers, bell peppers, and a lemon vinaigrette."
+    },
+    {
+        "context": "Hello! What can I help you with today? Certainly! How about a quinoa salad? Mix cooked quinoa with cherry tomatoes, cucumbers, bell peppers, and a lemon vinaigrette.",
+        "question": "What other healthy recipes do you have?",
+        "response": "You might also like a smoothie with spinach, banana, and almond milk. It’s nutritious and delicious!"
+    },
+    {
+        "context": "Hello! What can I help you with today? Certainly! How about a quinoa salad? Mix cooked quinoa with cherry tomatoes, cucumbers, bell peppers, and a lemon vinaigrette. You might also like a smoothie with spinach, banana, and almond milk. It’s nutritious and delicious!",
+        "question": "Can you suggest a workout routine?",
+        "response": "A good workout routine includes a mix of cardio, strength training, and flexibility exercises. For example, you can start with a 20-minute jog, followed by 15 minutes of strength exercises like push-ups and squats, and finish with 10 minutes of stretching."
+    },
+    {
+        "context": "Hi there! How can I assist you?",
+        "question": "What is your favorite color?",
+        "response": "As a chatbot, I don’t have personal preferences, but I can help you find information about colors!"
+    },
+    {
+        "context": "Hi there! How can I assist you? As a chatbot, I don’t have personal preferences, but I can help you find information about colors!",
+        "question": "Can you tell me more about blue?",
+        "response": "Blue is often associated with calmness and stability. It's a primary color in the RGB color model and is commonly used to convey trust and serenity."
+    },
+    {
+        "context": "Hi there! How can I assist you? As a chatbot, I don’t have personal preferences, but I can help you find information about colors! Blue is often associated with calmness and stability. It's a primary color in the RGB color model and is commonly used to convey trust and serenity.",
+        "question": "What about red?",
+        "response": "Red is associated with energy, passion, and action. It’s a primary color in the RGB color model and is often used to grab attention or convey excitement."
+    },
+    {
+        "context": "Hello! What do you need help with?",
+        "question": "What is your favorite book?",
+        "response": "I don’t have personal preferences, but I can recommend '1984' by George Orwell, which is a thought-provoking novel."
+    },
+    {
+        "context": "Hello! What do you need help with? I don’t have personal preferences, but I can recommend '1984' by George Orwell, which is a thought-provoking novel.",
+        "question": "Do you know any other classic novels?",
+        "response": "Yes, 'Pride and Prejudice' by Jane Austen and 'The Great Gatsby' by F. Scott Fitzgerald are also considered classics."
+    },
+    {
+        "context": "Hello! What do you need help with? I don’t have personal preferences, but I can recommend '1984' by George Orwell, which is a thought-provoking novel. Yes, 'Pride and Prejudice' by Jane Austen and 'The Great Gatsby' by F. Scott Fitzgerald are also considered classics.",
+        "question": "What about modern novels?",
+        "response": "Some popular modern novels include 'The Road' by Cormac McCarthy, 'The Goldfinch' by Donna Tartt, and 'Where the Crawdads Sing' by Delia Owens."
+    },
+    {
+        "context": "Hi! What can I do for you?",
+        "question": "Can you give me a recipe for chocolate cake?",
+        "response": "Sure! Here’s a simple recipe: Mix 1 and 3/4 cups flour, 1 and 1/2 cups sugar, 3/4 cup cocoa powder, 1 and 1/2 tsp baking powder, 1 and 1/2 tsp baking soda, 1 tsp salt, 2 eggs, 1 cup milk, 1/2 cup vegetable oil, and 2 tsp vanilla extract. Bake at 350°F for 30-35 minutes."
+    },
+    {
+        "context": "Hi! What can I do for you? Sure! Here’s a simple recipe: Mix 1 and 3/4 cups flour, 1 and 1/2 cups sugar, 3/4 cup cocoa powder, 1 and 1/2 tsp baking powder, 1 and 1/2 tsp baking soda, 1 tsp salt, 2 eggs, 1 cup milk, 1/2 cup vegetable oil, and 2 tsp vanilla extract. Bake at 350°F for 30-35 minutes.",
+        "question": "Can you suggest a frosting for the cake?",
+        "response": "You can make a simple chocolate frosting by mixing 1/2 cup of softened butter with 1/4 cup of cocoa powder, 2 cups of powdered sugar, and 2-3 tablespoons of milk until smooth and creamy."
+    },
+    {
+        "context": "Hi! What can I do for you? Sure! Here’s a simple recipe: Mix 1 and 3/4 cups flour, 1 and 1/2 cups sugar, 3/4 cup cocoa powder, 1 and 1/2 tsp baking powder, 1 and 1/2 tsp baking soda, 1 tsp salt, 2 eggs, 1 cup milk, 1/2 cup vegetable oil, and 2 tsp vanilla extract. Bake at 350°F for 30-35 minutes. You can make a simple chocolate frosting by mixing 1/2 cup of softened butter with 1/4 cup of cocoa powder, 2 cups of powdered sugar, and 2-3 tablespoons of milk until smooth and creamy.",
+        "question": "Any other dessert recommendations?",
+        "response": "How about trying a classic cheesecake? You’ll need cream cheese, sugar, eggs, and a graham cracker crust. It’s rich and delicious!"
+    }
+]
